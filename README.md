@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Data Analytic Projects:</h2>
 
-- [COVID 19 DATA EXPLORATION]()
+- [COVID 19 DATA EXPLORATION](https://github.com/beshungh/PortfolioProjects/blob/main/COVID%2019%20Portfolio%20Project%20Scripts.sql)
 
 <h2> 📄 Certifications:</h2>
 
