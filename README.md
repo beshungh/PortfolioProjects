@@ -7,7 +7,7 @@
 <h2> 📄 Certifications:</h2>
 
 - <b>[Google Data Analytics](https://coursera.org/verify/professional-cert/5Z6L543VYRMK)
-
+- <b>[The complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/certificate/UC-06df5cc1-5137-40c9-b648-db14b3655caa/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 <h2> 🤳 Connect with me:</h2>
 
 
