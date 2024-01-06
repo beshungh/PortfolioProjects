@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Data Analytic Projects:</h2>
 
-- [Active Directory Home Lab]()
+- [COVID 19 DATA EXPLORATION]()
 
 <h2> 📄 Certifications:</h2>
 
